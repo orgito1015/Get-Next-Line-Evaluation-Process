@@ -1,7 +1,7 @@
 # Get Next Line — Evaluation Toolkit
 
-This repository contains everything needed to evaluate the 42 `get_next_line` project according to the official evaluation steps (Q1–Q7).  
-This toolkit is **for evaluators**, not for students.  
+This repository contains everything needed to evaluate the 42 `get_next_line` project according to the official evaluation steps.  
+
 You plug in the **student’s project** and use this repo to test it.
 
 ---
